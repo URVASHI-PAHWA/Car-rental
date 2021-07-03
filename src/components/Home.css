@@ -1,0 +1,64 @@
+#main{
+    cursor: pointer;
+}
+#i1{
+    background-size: cover;
+}
+#test{
+    margin-top: 90px;
+    font-weight: bold;
+    font-family: 'Patua One', cursive;
+    font-size: 35px;
+    letter-spacing: 0.2rem;
+    cursor: pointer; 
+}
+#h1{
+    margin-top: 110px;
+    font-weight: bold;
+    font-family: 'Patua One', cursive;
+    font-size: 35px;
+    letter-spacing: 0.2rem;
+    cursor: pointer;
+}
+#h2{
+    margin-top: 50px;
+    font-weight: bold;
+    font-family: 'Patua One', cursive;
+    font-size: 25px;
+    letter-spacing: 0.2rem;
+    cursor: pointer;
+}
+#h1:hover,#test:hover{
+    color:orange;
+    transition: all 0.8s ease-in-out;
+    transition: 500ms;
+}
+#p{
+    margin-top: 20px;
+    font-family: 'Patua One', cursive;
+    opacity:0.7;
+    font-size: 15px;
+    letter-spacing: 0.2rem;
+}
+#image1:hover{
+    background-color:orange;
+    opacity: 0.7;
+    cursor: pointer;
+    transition:all 1s ease-in-out;
+    transition: transform 1s;
+    height: 250px;
+    width:500px;
+    margin: 0 auto;
+}
+#image2:hover{
+    background-color: orange;
+    opacity: 0.7;
+    cursor: pointer;
+    transition:all 1s ease-in-out;
+}
+#image3:hover{
+    background-color: orange;
+    opacity: 0.7;
+    cursor: pointer;
+    transition:all 1s ease-in-out;
+}

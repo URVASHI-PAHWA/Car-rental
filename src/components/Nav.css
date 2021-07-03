@@ -1,0 +1,11 @@
+.car:hover{
+    color:orange;
+    letter-spacing: 1rem;
+    transition: all 0.4s ease-in;
+    transition: 250ms;
+}
+.car{
+    letter-spacing: 1.5rem;
+    padding: 20px;
+    transition: all 0.2s ease-in-out;
+}

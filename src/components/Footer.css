@@ -1,0 +1,41 @@
+.Footer{
+    padding: 2em 0 2em 0;
+    background-color: #e9ecef;
+}
+.icon.style2{
+    background-color: transparent;
+    border: solid 1px #c9c9c9;
+    border-radius: 4px;
+    width: 2.65em;
+    height: 2.65em;
+    display: inline-block;
+    text-align: center;
+    line-height: 2.65em;
+    color: inherit;
+    font-size: 1.1em;
+}
+.icon {
+    text-decoration: none;
+    border-bottom: none;
+    position: relative;
+}
+.Footer span{
+    display: none;
+}
+ul.icons {
+    cursor: default;
+    list-style: none;
+}
+ul.icons li {
+    display: inline-block;
+    padding: 1em 0 0 1em;
+}
+.copyright {
+    width: 100%;
+    list-style: none;
+    font-size: 0.8em;
+    color: rgba(88, 88, 88, 0.5);
+}
+.copyright li{
+    padding-left: 1.2em;
+}
